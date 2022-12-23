@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdilAsad1
 - 👀 I’m interested in Full Stack Development, AI, ML
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently a CS grad student at Penn State University
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me adilasad1@hotmail.com
 
