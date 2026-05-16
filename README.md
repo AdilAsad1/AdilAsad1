@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdilAsad1
 - 👀 I’m interested in Full Stack Development, AI, ML
-- 🌱 CS grad @PennState
+- 🌱 CS grad @PennState, SE @ NuAxis Innovations 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me adilasad1@hotmail.com
 
