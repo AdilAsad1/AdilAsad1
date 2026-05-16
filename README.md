@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development, AI, ML
 - 🌱 CS grad @PennState, SE @ NuAxis Innovations 
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me adilasad1@hotmail.com
+- 📫 How to reach me adilasad11@gmail.com
 
 <!---
 AdilAsad1/AdilAsad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
